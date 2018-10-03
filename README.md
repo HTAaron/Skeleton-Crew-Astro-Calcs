@@ -14,4 +14,4 @@ MIT
 Inspired by Arthur Clarke and Michael Crichton.
 
 ## Notes
-* .m files tested on Octave 4.4.1
+* .m file(s) tested on Octave 4.4.1
