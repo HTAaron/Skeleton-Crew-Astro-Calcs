@@ -1,5 +1,5 @@
 # The Genesys Program
-Octave .m file(s) containing astronomical calculations.
+.m file(s) containing astronomical calculations.
 
 ## Prerequisites
 Octave (https://www.gnu.org/software/octave/)
@@ -12,3 +12,6 @@ MIT
 
 ## Acknowledgments
 Inspired by Arthur Clarke and Michael Crichton.
+
+## Notes
+* .m files tested on Octave 4.4.1
