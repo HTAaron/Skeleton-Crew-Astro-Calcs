@@ -7,7 +7,7 @@
  * Astronomical data sourced from Wikipedia
  
  Story
- * The story is online at medium.com: https://medium.com/@hta_4516/earth-in-a-hair-6abf6a0d8f7c
+ * Online at medium.com: https://medium.com/@hta_4516/earth-in-a-hair-6abf6a0d8f7c
 
 #}
 
