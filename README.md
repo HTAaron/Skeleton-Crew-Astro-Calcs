@@ -1,4 +1,4 @@
-# The Genesys Program
+# The Genesis Project
 .m file(s) containing astronomical calculations.
 
 ## Prerequisites
