@@ -6,9 +6,6 @@
  * Human Hair Diameter: https://en.wikipedia.org/wiki/Micrometre
  * Astronomical data sourced from Wikipedia
  
- Story
- * Online at medium.com: https://medium.com/@hta_4516/earth-in-a-hair-6abf6a0d8f7c
-
 #}
 
 # Constants
