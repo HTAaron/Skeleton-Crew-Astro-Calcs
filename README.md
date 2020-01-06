@@ -1,4 +1,4 @@
-# The Genesis Project
+# Skeleton Crew
 .m file(s) containing astronomical calculations.
 
 ## Prerequisites
